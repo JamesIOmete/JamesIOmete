@@ -1,10 +1,10 @@
 # James Ward — IoT & Cloud Solutions Architect
 
-I'm an IoT and cloud solutions architect with 35+ years in enterprise IT, including 14 years as enterprise solutions architect at a manufacturing company and co-founder/CTO of an IoT startup where I built end-to-end connected systems from embedded firmware through AWS cloud architecture.
+I'm an IoT and cloud solutions architect with 30 years in enterprise IT, including 14 years as enterprise solutions architect at a manufacturing company and co-founder/CTO of an IoT startup where I built end-to-end connected systems from embedded firmware through AWS cloud architecture.
 
-**Best fit:** IoT Solutions Architect · Cloud Solutions Architect · Platform/DevOps Architect
-**Core signal:** Secure device-to-cloud systems, Terraform IaC, observability, operator tooling, AI-enhanced DevOps
-**Recent proof:** AWS IoT cold-chain reference stack + Go fleet-ops CLI + AI Terraform plan reviewer
+**Best fit:** IoT Solutions Architect · Cloud Solutions Architect · Platform/DevOps Architect  
+**Core signal:** Secure device-to-cloud systems, agentic AI for infrastructure, Terraform IaC, observability, operator tooling  
+**Recent proof:** AWS IoT cold-chain reference stack + autonomous fleet ops AI agent + Go fleet-ops CLI + AI Terraform plan reviewer
 
 ---
 
@@ -21,7 +21,8 @@ End-to-end AWS IoT implementation showing X.509 device identity, MQTT/TLS ingest
 ## Supporting Projects
 
 | Project | What it proves | Stack |
-|---------|---------------|-------|
+|---------|----------------|-------|
+| [iot-ops-agent](https://github.com/JamesIOmete/iot-ops-agent) | Autonomous AI agent for IoT fleet ops — watchdog, incident response, and briefing modes with bounded tool use, structured reasoning logs, and escalation as a first-class outcome | Python · Anthropic Claude · AWS IoT Core · DynamoDB · CloudWatch |
 | [iotctl](https://github.com/JamesIOmete/iotctl) | Operator CLI for IoT fleets — real AWS API calls, no mock data | Go · AWS SDK v2 · Cobra |
 | [tf-plan-ai-reviewer](https://github.com/JamesIOmete/tf-plan-ai-reviewer) | AI-assisted IaC risk review with PASS/WARN/BLOCK PR verdicts | Python · Anthropic Claude · OpenAI · GitHub Actions |
 | [multicloud-sa-toolkit](https://github.com/JamesIOmete/multicloud-sa-toolkit) | Multi-cloud Terraform architecture patterns across AWS, Azure, GCP | Terraform · GitHub Actions · AWS · Azure · GCP |
@@ -32,6 +33,7 @@ End-to-end AWS IoT implementation showing X.509 device identity, MQTT/TLS ingest
 ## Focus Areas
 
 - **IoT architecture** — X.509 device identity, MQTT at scale, cold chain monitoring, edge-to-cloud pipelines
+- **Agentic AI for infrastructure** — bounded tool use, structured reasoning logs, escalation design, responsible deployment
 - **AWS cloud architecture** — IoT Core, Lambda, DynamoDB, CloudWatch, IAM — designed and deployed, not just documented
 - **Infrastructure as Code** — Terraform, GitHub Actions, OIDC-based cloud auth
 - **Operator tooling** — CLI design, Go, AWS SDK integration, fleet operations
@@ -48,7 +50,7 @@ End-to-end AWS IoT implementation showing X.509 device identity, MQTT/TLS ingest
 | IaC | Terraform · GitHub Actions |
 | Languages | Python · Go · HCL |
 | Databases | DynamoDB · CloudWatch Logs Insights |
-| AI/LLM | Anthropic Claude · OpenAI GPT-4o · Azure OpenAI |
+| AI/LLM | Anthropic Claude · OpenAI GPT-4o · Azure OpenAI · agentic tool use · structured reasoning |
 
 ---
 
