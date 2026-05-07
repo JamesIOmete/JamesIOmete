@@ -45,11 +45,12 @@ End-to-end AWS IoT implementation showing X.509 device identity, MQTT/TLS ingest
 
 | Domain | Tools |
 |--------|-------|
-| IoT | AWS IoT Core · MQTT · X.509 · paho-mqtt · Device Shadow |
+| IoT | AWS IoT Core · MQTT · X.509 · paho-mqtt · Device Shadow · AWS IoT Jobs · SQS DLQ |
 | Cloud | AWS · Azure · GCP |
-| IaC | Terraform · GitHub Actions |
-| Languages | Python · Go · HCL |
+| IaC | Terraform · GitHub Actions · OIDC keyless auth |
+| Languages | Python · Go · C++ (embedded) · HCL |
 | Databases | DynamoDB · CloudWatch Logs Insights |
+| Observability | CloudWatch · structured JSONL logging · alarm design · runbook execution |
 | AI/LLM | Anthropic Claude · OpenAI GPT-4o · Azure OpenAI · agentic tool use · structured reasoning |
 
 ---
