@@ -1,6 +1,6 @@
 # James Ward — IoT, Cloud & Applied AI Infrastructure Architect
 
-I'm an IoT and cloud solutions architect with 30 years in enterprise IT, including 14 years as enterprise solutions architect at a manufacturing company and co-founder/CTO of an IoT startup where I built end-to-end connected systems from embedded firmware through AWS cloud architecture. My recent portfolio work extends that background into agentic infrastructure operations, AI-assisted DevOps, and applied ML for telemetry-driven monitoring.
+I'm an IoT and cloud solutions architect with 35+ years in enterprise IT, including 14 years as enterprise solutions architect at a manufacturing company and co-founder/CTO of an IoT startup where I built end-to-end connected systems from embedded firmware through AWS cloud architecture. My recent portfolio work extends that background into agentic infrastructure operations, AI-assisted DevOps, and applied ML for telemetry-driven monitoring.
 
 **Best fit:** IoT Solutions Architect · Cloud Solutions Architect · Platform/DevOps Architect  
 **Core signal:** Secure device-to-cloud systems, agentic AI for infrastructure, Terraform IaC, observability, operator tooling, applied AI infrastructure monitoring  
