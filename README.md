@@ -28,6 +28,7 @@ End-to-end AWS IoT implementation showing X.509 device identity, MQTT/TLS ingest
 | [tf-plan-ai-reviewer](https://github.com/JamesIOmete/tf-plan-ai-reviewer) | AI-assisted IaC risk review with PASS/WARN/BLOCK PR verdicts | Python · Anthropic Claude · OpenAI · GitHub Actions |
 | [multicloud-sa-toolkit](https://github.com/JamesIOmete/multicloud-sa-toolkit) | Multi-cloud Terraform architecture patterns across AWS, Azure, GCP | Terraform · GitHub Actions · AWS · Azure · GCP |
 | [multicloud-estate-briefing](https://github.com/JamesIOmete/multicloud-estate-briefing) | LLM-generated estate summaries from cloud inventory artifacts | Python · Anthropic Claude · OpenAI · GitHub Actions |
+| [k8s-ai-inference-deployment-demo](https://github.com/JamesIOmete/k8s-ai-inference-deployment-demo) | Kubernetes deployment patterns for a containerized AI-style inference service — namespaces, probes, ConfigMaps, HPA, validated with kind | Python · Kubernetes · Docker · kubectl |
 | [tf-scaffold-ai](https://github.com/JamesIOmete/tf-scaffold-ai) | Generates working Terraform scaffolds from plain-language architecture descriptions — constrained generation with security guardrails baked in | Python · OpenAI · Azure OpenAI · GitHub Actions |
 
 ---
