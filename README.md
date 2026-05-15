@@ -24,11 +24,11 @@ End-to-end AWS IoT implementation showing X.509 device identity, MQTT/TLS ingest
 |---------|----------------|-------|
 | [iot-ops-agent](https://github.com/JamesIOmete/iot-ops-agent) | Autonomous AI agent for IoT fleet ops — watchdog, incident response, and briefing modes with bounded tool use, structured reasoning logs, and escalation as a first-class outcome | Python · Anthropic Claude · AWS IoT Core · DynamoDB · CloudWatch |
 | [gpu-rack-anomaly-detection-pytorch](https://github.com/JamesIOmete/gpu-rack-anomaly-detection-pytorch) | Applied AI infrastructure demo — PyTorch autoencoder trained on simulated GPU rack telemetry, with thermal-derived features and structured anomaly reports for operations handoff | Python · PyTorch · ML engineering · Telemetry · Anomaly detection |
+| [k8s-inference-ops](https://github.com/JamesIOmete/k8s-inference-ops) | Kubernetes deployment-pattern demo for a containerized AI-style inference API — validated locally with kind, two replicas, ConfigMap runtime config, health probes, resource limits, ClusterIP service, and port-forwarded smoke testing | Kubernetes · Docker · Python · kind · Observability |
 | [iotctl](https://github.com/JamesIOmete/iotctl) | Operator CLI for IoT fleets — real AWS API calls, no mock data | Go · AWS SDK v2 · Cobra |
 | [tf-plan-ai-reviewer](https://github.com/JamesIOmete/tf-plan-ai-reviewer) | AI-assisted IaC risk review with PASS/WARN/BLOCK PR verdicts | Python · Anthropic Claude · OpenAI · GitHub Actions |
 | [multicloud-sa-toolkit](https://github.com/JamesIOmete/multicloud-sa-toolkit) | Multi-cloud Terraform architecture patterns across AWS, Azure, GCP | Terraform · GitHub Actions · AWS · Azure · GCP |
 | [multicloud-estate-briefing](https://github.com/JamesIOmete/multicloud-estate-briefing) | LLM-generated estate summaries from cloud inventory artifacts | Python · Anthropic Claude · OpenAI · GitHub Actions |
-| [k8s-ai-inference-deployment-demo](https://github.com/JamesIOmete/k8s-ai-inference-deployment-demo) | Kubernetes deployment patterns for a containerized AI-style inference service — namespaces, probes, ConfigMaps, HPA, validated with kind | Python · Kubernetes · Docker · kubectl |
 | [tf-scaffold-ai](https://github.com/JamesIOmete/tf-scaffold-ai) | Generates working Terraform scaffolds from plain-language architecture descriptions — constrained generation with security guardrails baked in | Python · OpenAI · Azure OpenAI · GitHub Actions |
 
 ---
